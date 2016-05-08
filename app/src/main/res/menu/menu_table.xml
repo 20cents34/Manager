@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TableActivity">
+    <item
+        android:id="@+id/action_envoyer"
+        android:icon="@mipmap/ic_check"
+        android:title="@string/envoyer"
+        app:showAsAction="ifRoom"/>
+
+</menu>

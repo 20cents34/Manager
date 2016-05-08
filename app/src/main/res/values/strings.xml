@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="table">Table :</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="Client">Client :</string>
+    <string name="recap">Recapitulatif : </string>
+    <string name="activity_table">Commande</string>
+    <string name="bt">Bluetooth</string>
+    <string name="activity_settings">Parametres</string>
+    <string name="status">Status :</string>
+    <string name="title_activity_commande">Produits</string>
+</resources>
